@@ -120,3 +120,18 @@ print(df)
 plt.figure(figsize=(15,15))
 sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 ```
+
+## Results:
+
+![Image of top words](Results1_BigData.PNG)
+
+
+![Image of charts](Results2_BigData.PNG)
+
+- I ahve displayed thetop 25 words in the above chart.
+
+
+## References:
+
+- https://www.w3schools.com/python/python_lambda.asp
+- https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3328674740105987/4033840715400609/6441317451288404/latest.html
