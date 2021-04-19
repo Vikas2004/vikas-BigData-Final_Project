@@ -128,7 +128,7 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 ![Image of charts](Results2_BigData.PNG)
 
-- I ahve displayed thetop 25 words in the above chart.
+- I have displayed thetop 25 words in the above chart.
 
 
 ## References:
